@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="welcome_kshitiz_raj">Welcome Kshitiz Raj</string>
+    <string name="number_of_remaining_attempts">Number of remaining attempts :</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="logindemo">LoginDemo</string>
+    <string name="password">password</string>
+    <string name="new_user_sign_up">New User? Sign Up !</string>
+    <string name="verifypassword">verifyPassword</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="emailid">EmailiD</string>
+    <string name="already_a_user_login">Already a User? LogIn</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="verify_password">verify Password</string>
+    <string name="register">Register</string>
+    <string name="log_out">Log Out</string>
+    <string name="settings">Settings</string>
+    <string name="refreshMenu" />
+</resources>
